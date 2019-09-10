@@ -12,7 +12,7 @@ Template project for Flask and SB Admin 2.
 
 1. Clone this repository to your local computer:
 ```
-git@github.com:rodmsmendes/sbadmin2-flask-template.git
+git clone git@github.com:rodmsmendes/sbadmin2-flask-template.git
 ```
 
 2. Rename the directory to your project's name:
