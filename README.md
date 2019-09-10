@@ -17,7 +17,7 @@ git clone git@github.com:rodmsmendes/sbadmin2-flask-template.git
 
 2. Rename the directory to your project's name:
 ```
-mv sbdadmin2-flask-template <your-project-name>
+mv sbadmin2-flask-template <your-project-name>
 ```
 
 3. Change to you project directory:
